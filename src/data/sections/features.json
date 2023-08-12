@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "icon": "pe-7s-display1",
+        "title": "E-ticaret Siteleri",
+        "content": "WordPress ile  WooCommerce altyapısını kullanarak E-ticaret siteleri geliştiriyorum."
+    },
+    {
+        "id": 2,
+        "icon": "pe-7s-browser",
+        "title": "Yönetim Panelli Siteler",
+        "content": "BackEnd tarafında Php, veritabanı tarafında MySql kullanarak yönetim paneli bulunan web siteleri geliştiriyorum."
+    },
+    {
+        "id": 3,
+        "icon": "pe-7s-phone",
+        "title": "Mobil Uygulamalar",
+        "content": "Ionic Framework'ü ile isteğe özel mobil uygulamalar geliştiriyorum."
+    },
+    {
+        "id": 4,
+        "icon": "pe-7s-airplay",
+        "title": "Masaüstü Uygulamalar",
+        "content": "C# & MySql/MsSql kullanarak müşterinin isteğine göre masaüstü uygulamalar geliştiriyorum."
+    }
+]
